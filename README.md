@@ -65,7 +65,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Library Name and Cell Name must be same which you have used for schematic. Press OK
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
-   ![WhatsApp Image 2024-11-05 at 18 09 15_600fff2b](https://github.com/user-attachments/assets/46bb9d88-2123-41fd-8b8f-3f6c574e30e6)
+ ![WhatsApp Image 2024-11-05 at 18 09 14_ef5d4321](https://github.com/user-attachments/assets/f3d3aa45-a40d-44e6-9986-39c4a134520e)
+
 
 
 
@@ -78,9 +79,7 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
-![WhatsApp Image 2024-11-05 at 18 09 14_8daa7b38](https://github.com/user-attachments/assets/7f3c498d-1d8d-4d12-9254-28053387c313)
-
-
+ ![WhatsApp Image 2024-11-05 at 18 09 14_55750972](https://github.com/user-attachments/assets/858e52a7-f3c5-40b2-a884-6c64d1ae8cf0)
 
  
 Analog simulation by SPECTRE.
