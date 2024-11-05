@@ -1,4 +1,4 @@
-# Implementation-Analysis-of-D-flipflop-using-Cadence-EDA-Tools
+![Screenshot 2024-11-05 183123](https://github.com/user-attachments/assets/46f56290-9104-4049-a130-d38870dad871)# Implementation-Analysis-of-D-flipflop-using-Cadence-EDA-Tools
 Ex No: 01     Implementation & Analysis of D-flipflop using Cadence EDA Tools   
 
 Aim:
@@ -99,7 +99,8 @@ Analog simulation by SPECTRE.
 
 
 For Transient Analysis Settings and Output
- ![Uploading Screenshot 2024-11-05 183123.png…]()
+  ![Screenshot 2024-11-05 183123](https://github.com/user-attachments/assets/dda5c1a4-743e-47a6-99fe-3284ab4a2033)
+
 
 
 
